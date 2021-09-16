@@ -1,5 +1,7 @@
 # 윤홍인 (Yoon, Hong In)
-  
+## Interests
+- Data Engineering
+- NLP
 
 <br/>  
 

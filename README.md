@@ -1,56 +1,89 @@
-# 윤홍인 (Yoon, Hong In)
-## Interests
-- Data Engineering
-- Data Analysis
+## Hey 👋, I'm Hong In!  
+  
 
-<br/>  
+<a href="https://github.com/gnlenfn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/gnlenfn" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
 
-## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-</div>  
-</br>
 
-- Python을 메인으로 사용하며 C++를 어느정도 사용할 수 있습니다
-- Tensorflow와 Keras를 통해 Deep Learning을 사용할 수 있고 Pytorch는 기본적인 사용법만 알고있습니다
-- ElephantSQL, Mongodb Atlas를 통해 두 클라우드 데이터베이스로 프로젝트를 진행했습니다  
-- Flask를 사용해 몇몇 웹앱을 만들었습니다
+### Glad to see you here!  
+I have a personality that like to challenge and try new things. Usually, I enjoy learning new techniques and frameworks. I changed my major from Linguistics to Speech recognition during the master's course. After graduate school, I decided to be a engineer (it also means changing major too😀). Through this experience, I learned I can have a steep learning curve. As a junior member, it could be my strength.
+   
   
 
 <br/>  
 
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=gnlenfn&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" /></div>  
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭I'm a Junior Data Engineer!  
+  
+
+- 🌱 I'm always ready to learn a new things and I'm a fast learner  
+  
+
+- ❓ I'm very interested in automation and trying to make automate on work  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
 
-<div align="center">
-<a href="https://github.com/gnlenfn" target="_blank">
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</a>  
-<a href="https://velog.io/@gnlenfn" target="_blank">
-<img src=http://img.shields.io/badge/-Tech%20blog-00D1B2?style=flat-square&logo=VectorLogoZone&link=https://velog.io/@gnlenfn alt=blog style="margin-bottom: 5px;" />
-</a>  
+
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
 </div>  
-<div align="center">
-<a href="https://www.linkedin.com/in/hong-in-yun-298b2b166/" target="_blank">
-<img src=http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hong-in-yun-298b2b166/ style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:gnlenfn@gmail.com">
-<img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnlenfn@gmail.com style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gnlenfn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnlenfn&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=gnlenfn&&style=flat-square)  
+  
+
+<br/>  
+
 
 <br />
 
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

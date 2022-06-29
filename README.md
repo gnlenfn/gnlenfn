@@ -76,7 +76,7 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 </td></tr></table>  
 
 <br/>  
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnlenfn)](https://solved.ac/gnlenfn)
   
 
 <br/>  
@@ -86,7 +86,7 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 
 <br/>  
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnlenfn)](https://solved.ac/gnlenfn)
+
 <br />
 
 ----

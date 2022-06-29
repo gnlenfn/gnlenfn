@@ -71,12 +71,12 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnlenfn&theme=vue&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnlenfn)](https://solved.ac/gnlenfn)
 
 </td></tr></table>  
 
 <br/>  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnlenfn)](https://solved.ac/gnlenfn)
+
   
 
 <br/>  

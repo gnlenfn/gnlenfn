@@ -91,3 +91,5 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gnlenfn)](https://solved.ac/gnlenfn)

@@ -14,6 +14,7 @@
 <img src=https://img.shields.io/badge/-velog-%2320C997?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
 </a> 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gnlenfn)](https://github.com/gnlenfn/velog-readme-stats)
 
 
 ### Glad to see you here!  

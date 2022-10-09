@@ -70,7 +70,7 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 
 </td><td valign="top" width="50%">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnlenfn)](https://solved.ac/gnlenfn)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhi92)](https://solved.ac/yhi92)
 
 </td></tr></table>  
 

@@ -1,24 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=60)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=60) -->
 
 
 ## Hey 👋, I'm Hong In!  
   
 
-<a href="https://github.com/gnlenfn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://gnlenfn.github.io" target="_blank">
+<img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/hong-in-yun-298b2b166/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://velog.io/@gnlenfn" target="_blank">
+<!-- <a href="https://velog.io/@gnlenfn" target="_blank">
 <img src=https://img.shields.io/badge/-velog-%2320C997?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
-</a> 
+</a>  -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gnlenfn)](https://github.com/gnlenfn/velog-readme-stats)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gnlenfn)](https://github.com/gnlenfn/velog-readme-stats) -->
 
 
 ### Glad to see you here!  
-I have a personality that like to challenge and try new things. Usually, I enjoy learning new techniques and frameworks. I changed my major from Linguistics to Speech recognition during the master's course. After graduate school, I decided to be a engineer (it also means changing major too😀). Through this experience, I learned I can have a steep learning curve. As a junior member, it could be my strength.
+새로운 기술과 프레임워크를 배우는 것을 좋아하고 빨리 배우는 편입니다. 다양한 분야의 경험을 바탕으로 빠르
+게 학습합니다. 배운 것을 다른 사람과 나눌 때 더 빨리 배우고 성장할 수 있다고 생각합니다.
+그리고 혼자 프로젝트를 진행하며 업무를 문서화하는 것의 중요성을 느껴 기록으로 남기고 공유합니다.
+공유를 통해 다 같이 성장할 수 있다고 믿고 성취를 나눌 수 있는 개발자가 되고 싶습니다.
    
   
 
@@ -63,7 +66,7 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gnlenfn&show_icons=true&theme=vue&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -89,5 +92,5 @@ I have a personality that like to challenge and try new things. Usually, I enjoy
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 

@@ -2,14 +2,14 @@
 
 
  
-
+<!--
 <a href="[https://https://velog.io/@gnlenfn" target="_blank">
 <img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/hong-in-yun-298b2b166/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<!-- <a href="https://velog.io/@gnlenfn" target="_blank">
+ <a href="https://velog.io/@gnlenfn" target="_blank">
 <img src=https://img.shields.io/badge/-velog-%2320C997?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
 </a>  -->
 
